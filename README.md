@@ -1,2 +1,2 @@
 # Learningmodules
-This contains basic essentials for different learning modules like their links and the stuff related to them.
+This contains basic essentials for Tensorflow like their links and the stuff related to them.
